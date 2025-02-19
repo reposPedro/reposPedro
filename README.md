@@ -7,7 +7,6 @@ Olá! Meu nome é Pedro Silva e sou desenvolvedor .NET. Atualmente a linguagem q
 
 [EN]
 Hello! My name is Pedro Silva and I am a .NET developer. Currently, the language I use in my projects is C# and for databases, SQLServer and MySQL. For Servers and availability, I use Ubuntu Server and Nginx. In this repository you will find projects from simple to more complex depending on the level of seniority. Feel free to explore it.
-
   <!-- <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
