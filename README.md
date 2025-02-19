@@ -3,7 +3,7 @@
 **`Desenvolvedor .NET`**
 
 [PT]
-Olá! Meu nome é Pedro Silva e sou desenvolvedor .NET. Atualmente a linguagem que utilizo em meus projetos é C# e para banco de dados, SQL usando o SQLServer e MySQL. Para Servidores e disponibilidade, utilizo Ubuntu Server e Nginx. Neste repositório você vai encontrar desde projetos simples até projetos mais complexos dependendo do nivel de senioridade. Fique à vontade para explorá-lo.
+Olá! Meu nome é Pedro Silva e sou desenvolvedor .NET. Atualmente a linguagem que utilizo em meus projetos é C# e para banco de dados, SQL usando o SQLServer e MySQL. Para servidores e disponibilidade, utilizo Ubuntu Server e Nginx. Neste repositório você vai encontrar desde projetos simples até projetos mais complexos dependendo do nivel de senioridade. Fique à vontade para explorá-lo.
 
 [EN]
 Hello! My name is Pedro Silva and I am a .NET developer. Currently, the language I use in my projects is C# and for databases, SQLServer and MySQL. For Servers and availability, I use Ubuntu Server and Nginx. In this repository you will find projects from simple to more complex depending on the level of seniority. Feel free to explore it.
