@@ -22,8 +22,8 @@ Hello! My name is Pedro Silva and I am a .NET developer. Currently, the language
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="html5" 
+    title="html5"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
@@ -85,8 +85,8 @@ Hello! My name is Pedro Silva and I am a .NET developer. Currently, the language
 
  <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="nginx" 
+    title="nginx"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"
@@ -94,8 +94,8 @@ Hello! My name is Pedro Silva and I am a .NET developer. Currently, the language
 
  <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="linux" 
+    title="linux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
@@ -103,8 +103,8 @@ Hello! My name is Pedro Silva and I am a .NET developer. Currently, the language
 
  <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="ubuntu" 
+    title="ubuntu"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
