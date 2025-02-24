@@ -110,6 +110,15 @@ Hello! My name is Pedro Silva and I am a .NET developer. Currently, the language
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
 />
 
+<img 
+    align="left" 
+    alt="pfsense" 
+    title="pfsense"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg"
+/>
+
 <br>
 <br>
 
