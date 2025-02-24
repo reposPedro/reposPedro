@@ -120,6 +120,6 @@ Hello! My name is Pedro Silva and I am a .NET developer. Currently, the language
       align="left" 
       alt="GitHub Stats" 
       height="110" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=reposPedro&theme=tokyonight&layout=compact&custom_title=TecnologiasEmUso&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=reposPedro&theme=tokyonight&layout=compact&custom_title=TecnologiasEmUso&langs_count=2" 
   />
 </p>
